@@ -16,7 +16,7 @@ S
 
 ## 💻 Projeto
 
-Um sistema de finanças feito em reactJS ,utilizando o banco de dados Firebase
+Um joguinho simples ,estilo pokemon pra treinar conceitos de hooks na aplicação
 
 ## 🚀 Como executar
 
